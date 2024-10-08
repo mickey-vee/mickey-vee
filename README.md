@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Mickey! 👋
 
-<!--
-**mickey-vee/mickey-vee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate **Full-Stack Developer** with a knack for turning ideas into functional web applications. My background in technical support enhances my problem-solving skills in development.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages**: HTML, CSS, JavaScript, Node.js
+- **Frameworks**: React, Express
+- **Databases**: MySQL, Knex
+- **Tools**: GitHub, Heroku, Agile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+- **BrainStation Software Engineering Diploma**  
+
+## 📫 Connect with Me
+- **Email**: mickey0vee@gmail.com
+- **LinkedIn**: [linkedin.com/in/mickey-vee](https://www.linkedin.com/in/mickey-vee/)
