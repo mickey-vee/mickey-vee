@@ -8,7 +8,7 @@ I’m a passionate **Full-Stack Developer** with a knack for turning ideas into 
 - **Databases**: MySQL, Knex
 - **Tools**: GitHub, Heroku, Agile
 
-- ## 🌟 Projects
+## 🌟 Projects
 - **Microsoft Industry Project**: Winner of first place for an innovative solution.
 - **BrainFlix**: A full-stack React video viewing app.
 - **Band Site**: A website created for a band with live data integration.
