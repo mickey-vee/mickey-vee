@@ -6,7 +6,6 @@ I’m a passionate **Full-Stack Developer** with a knack for turning ideas into 
 - **Languages**: HTML, CSS, JavaScript, Node.js
 - **Frameworks**: React, Express
 - **Databases**: MySQL, Knex
-- **Tools**: GitHub, Heroku
 
 ## 🌟 Projects
 - **Microsoft Industry Project**: Winner of first place for an innovative solution.
