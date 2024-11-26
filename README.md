@@ -9,6 +9,7 @@ I’m a passionate **Full-Stack Developer** with a knack for turning ideas into 
 
 ## 🌟 Projects
 - **Microsoft Industry Project**: Winner of first place for an innovative solution.
+- **Big 2 Points Calculator**: A website created for calculating points in big 2.
 - **BrainFlix**: A full-stack React video viewing app.
 - **Band Site**: A website created for a band with live data integration.
 - **Travel Site**: A simple HTML and CSS travel website.
