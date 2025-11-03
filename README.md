@@ -16,7 +16,3 @@ I’m a passionate **Full-Stack Developer** with a knack for turning ideas into 
 
 ## 🎓 Education
 - **BrainStation Software Engineering Diploma**  
-
-## 📫 Connect with Me
-- **Email**: mickey0vee@gmail.com
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/mickey-vee/)
